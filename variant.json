@@ -3,7 +3,8 @@
     "figures": [ 
      "Triangle",
       "Square",
-      "Rectagon"
+     "Rectangle"
+
       
     ],
     "containers": [
