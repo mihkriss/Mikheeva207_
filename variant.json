@@ -1,13 +1,13 @@
 {
-    «вариант» : 17 ,
-    "цифры" : [
-     " Треугольник " ,
-      " Квадрат " ,
-      « Прямоугольник »
+    «variant» : 17 ,
+    "figuries" : [
+     "Triangle" ,
+      "Square" ,
+      "Rectangle"
       
     ],
-    "контейнеры" : [
-        " TBinaryTree "
+    "containers" : [
+        "TBinaryTree"
     ],
     "finished_labs" : {
       "lab1" : " lab1 "
@@ -23,6 +23,8 @@
     " lab2 " ,
     " lab3 " ,
     " lab4 "
+    " lab5 "
   ]
 	}
 } 
+
