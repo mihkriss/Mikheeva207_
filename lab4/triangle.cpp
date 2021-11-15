@@ -18,7 +18,7 @@
   }
 
    size_t Triangle::VertexesNumber() {
-       size_t number = 5;
+       size_t number = 3;
        return number;
    }
 
