@@ -1,17 +1,28 @@
 {
-    "variant": 17,
-    "figures": [ 
-     "Triangle",
-      "Square",
-      "Rectangle"
+    «вариант» : 17 ,
+    "цифры" : [
+     " Треугольник " ,
+      " Квадрат " ,
+      « Прямоугольник »
       
     ],
-    "containers": [
-        "TBinaryTree"
+    "контейнеры" : [
+        " TBinaryTree "
     ],
-    "finished_labs": {
-      "lab1": "lab1"
-      "lab2" : "lab2"
-      "lab3" : "lab3" 
-    }
-  }
+    "finished_labs" : {
+      "lab1" : " lab1 "
+      "lab2" : " lab2 "
+      "lab3" : " lab3 " 
+      "lab4" : " lab4 "
+      "lab5" : " lab5 "
+      "lab6" : " __in_progress__ "
+      
+
+    "reports" : [
+    " lab1 " ,
+    " lab2 " ,
+    " lab3 " ,
+    " lab4 "
+  ]
+	}
+} 
