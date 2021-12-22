@@ -9,14 +9,14 @@
         "TBinaryTree"
     ],
     "finished_labs" : {
-      "lab0.1" : "lab0.1",
-      "lab0.1" : "lab0.2",
-      "lab1" : " lab1 ",
-      "lab2" : " lab2 ",
-      "lab3" : " lab3 ",
-      "lab4" : " lab4 ",
-      "lab5" : " lab5 ",
-      "lab6" : " __in_progress__ "
+      "lab1" : "lab0.1",
+      "lab2" : "lab0.2",
+      "lab3" : " lab1 ",
+      "lab4" : " lab2 ",
+      "lab5" : " lab3 ",
+      "lab6" : " lab4 ",
+      "lab7" : " lab5 ",
+      "lab8" : " __in_progress__ "
       
 
     "reports" : [
@@ -25,6 +25,9 @@
     " lab3 " ,
     " lab4 "
     " lab5 "
+    " lab6 "
+    " lab7 "
+
   ]
 	}
 } 
